@@ -12,4 +12,8 @@ The main branch contains the following components:
 - The documentation to the project.
 
 ### Datasets Branch
-The datasets branch contains all the datasets utilized in this project. These datasets are used for training and testing the sentiment analysis model. 
+Here are the datasets used to train the models:
+For emotion analysis: go_emotions dataset from the [datasets](https://huggingface.co/docs/datasets/index) library.
+For AI text classification: 2.5 B parameters [GPT-2 outputs](https://github.com/openai/gpt-2-output-dataset) dataset.
+For positive or negative: imdb dataset of the [datasets](https://huggingface.co/docs/datasets/index) library.
+For category prediction: Five [NLI datasets](https://github.com/MoritzLaurer/zeroshot-classifier/blob/main/datasets_overview.csv) with around 885k texts.
