@@ -1,6 +1,6 @@
 # BYOP
-##Project Structure
-###Main Branch
+## Project Structure
+### Main Branch
 The main branch contains the following components:
 
 Jupyter Notebooks: Each feature of the sentiment analysis model is implemented in a separate Jupyter notebook.
